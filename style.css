@@ -4,7 +4,7 @@
 }
 
 /* frist section  */
-.background-image h1 {
+#backgrund-text {
     display: flex;
     font-family: 'Inter', sans-serif;
     font-size: 60px;
@@ -26,7 +26,7 @@
     color: whitesmoke;
     font-weight: 700;
     border-radius: 10px;
-    position: fixed;
+    position: absolute;
     left: 43%;
 }
 
@@ -39,4 +39,24 @@
     background-position: center;
     width: 1263px;
     height: 640px;
+}
+
+
+/* section 2 */
+
+.Donate-plan h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 46px;
+    color: black;
+    text-align: center;
+    padding-top: 10%;
+
+}
+
+#donate-details {
+    color: rgb(86, 96, 93);
+    text-align: center;
+    padding-top: 20px;
+    font-family: Garamond;
+    padding-bottom: 10%;
 }
