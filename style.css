@@ -58,5 +58,54 @@
     text-align: center;
     padding-top: 20px;
     font-family: Garamond;
-    padding-bottom: 10%;
+    padding-bottom: 7%;
+}
+
+
+.donate-cart {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 7%;
+}
+
+.cart {
+    background-color: rgba(131, 154, 154, 0.744);
+    color: rgb(81, 89, 89);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 130px;
+    height: 70px;
+    border: 1px solid rgb(109, 109, 134);
+    text-align: center;
+
+    padding-top: 33px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+#select-card {
+    border: 2px solid red;
+    color: rgba(255, 0, 0, 0.751);
+    background-color: rgba(179, 41, 94, 0.432);
+    border-radius: 10px;
+}
+
+.amaount {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+button {
+    background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
 }
