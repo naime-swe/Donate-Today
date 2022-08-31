@@ -109,3 +109,53 @@ button {
     font-size: 16px;
     margin: 4px 2px;
 }
+
+
+/* section 3 */
+
+p {
+    font-family: arial;
+    font-weight: 500;
+    color: rgb(103, 97, 97);
+}
+
+.all-box {
+    width: 265px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(31, 31, 41);
+    margin: 0 auto;
+    border: 1px solid gray;
+    padding: 22px;
+    padding-bottom: 7%;
+    box-shadow: 2px 2px 4px gray;
+    border-radius: 6px;
+    margin-top: 20px;
+    background-color: rgba(115, 224, 224, 0.47);
+
+
+}
+
+.box-description {
+
+    margin-top: 1px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    flex-wrap: wrap;
+
+}
+
+.icon img {
+    width: 40px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+}
+
+#anouther-color2 {
+    background-color: rgba(165, 101, 165, 0.39);
+}
+
+#anouther-color3 {
+    background-color: rgba(231, 172, 99, 0.511);
+}
